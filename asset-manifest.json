@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/MyStore/static/css/main.c9923af6.css",
+    "main.js": "/MyStore/static/js/main.79a17065.js",
+    "static/media/sale2.gif": "/MyStore/static/media/sale2.09101fdca4bf4bf9f5cc.gif",
+    "static/media/sale.gif": "/MyStore/static/media/sale.cbdca54e87baaa4d2b50.gif",
+    "static/media/landing.png": "/MyStore/static/media/landing.3def2f2bb176d6e393e2.png",
+    "static/media/elc.jpg": "/MyStore/static/media/elc.eddb9db8ac394b63297f.jpg",
+    "static/media/jew.jpg": "/MyStore/static/media/jew.718322bb0ee1a46eb594.jpg",
+    "static/media/fa-solid-900.ttf": "/MyStore/static/media/fa-solid-900.de78ce19b6954a6f4144.ttf",
+    "static/media/notfound.png": "/MyStore/static/media/notfound.fe679e941a6981e580cd.png",
+    "static/media/fa-brands-400.ttf": "/MyStore/static/media/fa-brands-400.c90f83fd0c6c34dd638f.ttf",
+    "static/media/splash.png": "/MyStore/static/media/splash.d627804d72795788182b.png",
+    "static/media/fa-solid-900.woff2": "/MyStore/static/media/fa-solid-900.5cb518f1dd00e7374eb8.woff2",
+    "static/media/fa-brands-400.woff2": "/MyStore/static/media/fa-brands-400.123e8cfb2b8bcdef2c3a.woff2",
+    "static/media/crt.png": "/MyStore/static/media/crt.54fd929f5bb6b38685dd.png",
+    "static/media/splashbkg.png": "/MyStore/static/media/splashbkg.a2d4c94d3dd923355775.png",
+    "static/media/fa-regular-400.ttf": "/MyStore/static/media/fa-regular-400.ce1650acad36ae1d3c93.ttf",
+    "static/media/me.JPG": "/MyStore/static/media/me.eb84b8349ea146742825.JPG",
+    "static/media/shop.png": "/MyStore/static/media/shop.1c5f613fb24a390cf531.png",
+    "static/media/fa-regular-400.woff2": "/MyStore/static/media/fa-regular-400.86fd3b02c25ecde4a02b.woff2",
+    "static/media/fa-v4compatibility.ttf": "/MyStore/static/media/fa-v4compatibility.f2268f438379a3e39843.ttf",
+    "static/media/fa-v4compatibility.woff2": "/MyStore/static/media/fa-v4compatibility.a9f39cf4a35334e80396.woff2",
+    "index.html": "/MyStore/index.html",
+    "main.c9923af6.css.map": "/MyStore/static/css/main.c9923af6.css.map",
+    "main.79a17065.js.map": "/MyStore/static/js/main.79a17065.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c9923af6.css",
+    "static/js/main.79a17065.js"
+  ]
+}
